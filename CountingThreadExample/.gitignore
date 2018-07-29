@@ -1,9 +1,0 @@
-.gradle
-/local.properties
-/.idea/workspace.xml
-<<<<<<< HEAD
-=======
-/.idea/libraries
->>>>>>> CountingThreadExample/master
-.DS_Store
-/build
