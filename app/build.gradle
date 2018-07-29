@@ -5,7 +5,11 @@ android {
     buildToolsVersion "26.0.2"
 
     defaultConfig {
+<<<<<<< HEAD
         applicationId "com.bateman.autopurchase"
+=======
+        applicationId "com.bateman.countingthreadexample"
+>>>>>>> CountingThreadExample/master
         minSdkVersion 19
         targetSdkVersion 20
         versionCode 1

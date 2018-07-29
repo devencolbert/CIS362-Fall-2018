@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+<<<<<<< HEAD
     <string name="app_name">Auto Purchase</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
@@ -32,5 +33,11 @@
     <string name="report_line10">\n\tYour Cost: $</string>
     <string name="report_line11">\n\tBorrowed Amount: $</string>
     <string name="report_line12">\n\tInterest Amount: $</string>
+=======
+    <string name="app_name">Counting Thread Example</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="zero">0</string>
+>>>>>>> CountingThreadExample/master
 
 </resources>
